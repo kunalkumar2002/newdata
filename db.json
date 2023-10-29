@@ -161,12 +161,9 @@
                 "https://i.dummyjson.com/data/products/9/4.jpg",
                 "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
             ]
-        },
-      
-        
-
+        }
     ],
     "total": 10,
     "skip": 0,
-    "limit": 10,
+    "limit": 10
 }
